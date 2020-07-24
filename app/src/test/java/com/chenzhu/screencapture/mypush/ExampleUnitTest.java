@@ -1,4 +1,4 @@
-package com.example.administrator.mypush;
+package com.chenzhu.screencapture.mypush;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.administrator.mypush;
+package com.chenzhu.screencapture.mypush;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
